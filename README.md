@@ -1,6 +1,6 @@
 # Doctor's Garage Website Redesign
 
-This repository contains the redesigned website for Doctor's Garage, a specialized automotive engineering service based in Belgium.
+This repository contains the redesigned website for Doctor's Garage, a specialized automotive engineering service based in Belgium. The redesign aims to create a modern, responsive website that showcases the services and expertise of Doctor's Garage.
 
 ## Project Overview
 
